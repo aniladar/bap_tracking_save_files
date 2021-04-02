@@ -3,6 +3,7 @@
 BAP069 Tracking Algorithm Save Files
 ## Requirements
  * The Sims™ 4
+ * [GDrive Save files folder](https://drive.google.com/drive/u/1/folders/1f1nGYSPDRB9sMwHuP3Ou04Mb7D-MnE95)
 ## Notes
 - A long list of files with names like *Slot_00000001.save* or *Slot_00000001.save.ver1* (Each file number has up to six versions)
 - The .save file extension is the primary version of that save point.
