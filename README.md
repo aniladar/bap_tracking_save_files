@@ -1,6 +1,7 @@
 # Tracking Algorithm
-> Simulation Environment Recovery Instructions
-BAP069 Tracking Algorithm Save Files
+> Simulation Environment Recovery Instructions BAP069 Tracking Algorithm Save Files
+>> [Link for Git](https://github.com/aniladar/bap_tracking_save_files)
+
 ## Requirements
  * The Sims™ 4
  * [GDrive Save files folder](https://drive.google.com/drive/u/1/folders/1f1nGYSPDRB9sMwHuP3Ou04Mb7D-MnE95)
@@ -23,3 +24,8 @@ BAP069 Tracking Algorithm Save Files
   * Click Enter.
   * **Example**: Slot_000000012.save.ver4 should now be Slot_000000012.save
 * Launch the game and choose Load Game. Select the save point you want to open, and the game will load the file you renamed as the primary for that save point.
+
+## Elapsed time in real life for 1 day:
+ * At normal speed = 26min 8sec
+ * At 2x speed = 12min 18sec
+ * At 3x speed = 5min 22sec
